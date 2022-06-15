@@ -8,3 +8,18 @@ margin: 0 auto;
     height: 100%;
     display:none;
 }
+#pas_form {
+    text-align: center;
+}
+.soccer {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+body {
+    margin: 0%;
+}
+.taitoru {
+    text-align: center;
+    font-size: 50px;
+}
